@@ -1,0 +1,10 @@
+C:\Users\taras\source\repos\lab003\lab003\bin\Debug\lab003.exe.config
+C:\Users\taras\source\repos\lab003\lab003\bin\Debug\lab003.exe
+C:\Users\taras\source\repos\lab003\lab003\bin\Debug\lab003.pdb
+C:\Users\taras\source\repos\lab003\lab003\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\taras\source\repos\lab003\lab003\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\taras\source\repos\lab003\lab003\obj\Debug\lab003.csproj.AssemblyReference.cache
+C:\Users\taras\source\repos\lab003\lab003\obj\Debug\lab003.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\lab003\lab003\obj\Debug\lab003.csproj.CopyComplete
+C:\Users\taras\source\repos\lab003\lab003\obj\Debug\lab003.exe
+C:\Users\taras\source\repos\lab003\lab003\obj\Debug\lab003.pdb
